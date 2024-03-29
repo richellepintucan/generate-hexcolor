@@ -45,28 +45,6 @@ Generating a random hexadecimal color value in JavaScrip.
 
 ```js
 'use strict';
-// Data
-
-const data = {
-  characters: [
-    '0',
-    '1',
-    '2',
-    '3',
-    '4',
-    '5',
-    '6',
-    '7',
-    '8',
-    ' 9',
-    'A',
-    'B',
-    'C',
-    'D',
-    'E',
-    'F',
-  ],
-};
 
 // DOM
 
