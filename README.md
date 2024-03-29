@@ -34,37 +34,17 @@ Generating a random hexadecimal color value in JavaScrip.
 
 ## Setup
 
-1. Clone the repo from your GitHub account git clone <HTTPS link>
-2. Open Visual Studio Code
-3. Run npm i
-4. Open index.html
+1. Clone the repo from your GitHub account 
+> git clone `HTTPS link`
+
+1. Open Visual Studio Code
+2. Run npm i
+3. Open index.html
 
 ## Code Examples
 
 ```js
 'use strict';
-// Data
-
-const data = {
-  characters: [
-    '0',
-    '1',
-    '2',
-    '3',
-    '4',
-    '5',
-    '6',
-    '7',
-    '8',
-    ' 9',
-    'A',
-    'B',
-    'C',
-    'D',
-    'E',
-    'F',
-  ],
-};
 
 // DOM
 
