@@ -2,7 +2,7 @@
 
 ## Project definition
 
-> Generating a random hex colors value in JavaScrip.
+> Generating a random hex colors value using HTML, CSS and JavaScript.
 
 ## Table of contents
 
@@ -35,7 +35,8 @@
 
 ## Setup
 
-1. Clone the repo from your GitHub account 
+1. Clone the repo from your GitHub account
+
 > git clone `HTTPS link`
 
 1. Open Visual Studio Code
@@ -58,7 +59,7 @@ const dom = {
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready and To-dos for future development
 
 - Random Hex Colors Generation: Generate a random hex colors value dynamically.
 
@@ -69,7 +70,7 @@ List of features ready and Todos for future development
 To-do list:
 
 - Setup Development Environment
-- Design User Interface (UI):
+- Design User Interface (UI)
 - Implement Random Hex Colors Generation Function
 
 ## Status
