@@ -1,12 +1,13 @@
-# HexColor
+# Hex Colors
 
-> Project definition
+## Project definition
 
-Generating a random hexadecimal color value in JavaScrip.
+> Generating a random hex colors value in JavaScrip.
 
 ## Table of contents
 
-- [HexColor](#hexcolor)
+- [Hex Colors](#hex-colors)
+  - [Project definition](#project-definition)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +23,7 @@ Generating a random hexadecimal color value in JavaScrip.
 
 ## Screenshots
 
-![Random Hexcolor](./public/hexcolor.png)
+![Random Hexcolors](./public/hexcolor.png)
 
 ## Technologies
 
@@ -59,20 +60,17 @@ const dom = {
 
 List of features ready and Todos for future development
 
-- Random Color Generation: Generate a random hexadecimal color value
-  dynamically.
+- Random Hex Colors Generation: Generate a random hex colors value dynamically.
 
-- User Interaction: Provide a user interface element (e.g., button) to trigger
-  the generation of a new random color.
+- User Interaction: Provide a user interface element (e.g., button) to trigger the generation of a new random color.
 
-- Display Color: Show the generated color to the user, allowing them to see the
-  result of the random generation.
+- Display Color: Show the generated color to the user, allowing them to see the result of the random generation.
 
 To-do list:
 
 - Setup Development Environment
 - Design User Interface (UI):
-- Implement Random Color Generation Function
+- Implement Random Hex Colors Generation Function
 
 ## Status
 
@@ -80,14 +78,9 @@ Project is: Completed
 
 ## Inspiration
 
-- Educational Projects: Learning projects and tutorials in JavaScript can use
-  random hex color generation as a practical exercise for understanding concepts
-  such as random number generation, hexadecimal representation, and DOM
-  manipulation.
+- Educational Projects: Learning projects and tutorials in JavaScript can use random hex color generation as a practical exercise for understanding concepts such as random number generation, hexadecimal representation, and DOM manipulation.
 
-- Dynamic UI Elements: When designing web applications or websites, dynamically
-  changing the color of certain UI elements can enhance visual appeal and user
-  engagement.
+- Dynamic UI Elements: When designing web applications or websites, dynamically changing the color of certain UI elements can enhance visual appeal and user engagement.
 
 ## Contact
 
