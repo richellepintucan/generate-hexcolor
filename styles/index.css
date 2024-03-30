@@ -37,24 +37,23 @@ button {
 }
 
 
-
 /* Mobile L */
 @media (max-width: 425px) {
-  .button {
+  button {
     width: 20%;
   }
 }
 
 /* Mobile M */
 @media (max-width: 375px) {
-  .button {
+  button {
     width: 25%;
   }
 }
 
 /* Mobile S */
 @media (max-width: 320px) {
-  .button {
+  button {
     width: 30%;
   }
 }
